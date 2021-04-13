@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/5d31251b-88a8-4fc4-ab5d-c82ef7936f1a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/dwightscomplements",
+    "appService.deploySubpath": "."
+}
