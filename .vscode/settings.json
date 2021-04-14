@@ -3,5 +3,6 @@
         "node_modules{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/5d31251b-88a8-4fc4-ab5d-c82ef7936f1a/resourceGroups/carterwebapp/providers/Microsoft.Web/sites/carterwebapp"
 }
